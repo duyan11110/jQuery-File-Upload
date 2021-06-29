@@ -8,3 +8,5 @@ Meeting number (access code): 182 524 2997
 
 https://event.on24.com/eventRegistration/EventLobbyServlet?target=lobby20.jsp&eventid=3208747&sessionid=1&key=5E072100E398E0C3599A55B24ADBF638&eventuserid=451698981
 https://event.on24.com/eventRegistration/EventLobbyServlet?target=lobby20.jsp&eventid=3205842&sessionid=1&key=7DFCB8E2A7EF8A846FAB4BE6D10EB7C5&eventuserid=451698879
+
+https://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&simulive=y&eventid=3205842&sessionid=1&username=&partnerref=&format=fhvideo1&mobile=&flashsupportedmobiledevice=&helpcenter=&key=7DFCB8E2A7EF8A846FAB4BE6D10EB7C5&newConsole=true&nxChe=true&newTabCon=true&consoleEarEventConsole=false&text_language_id=en&playerwidth=748&playerheight=526&eventuserid=451698879&contenttype=L&mediametricsessionid=393153977&mediametricid=4486424&usercd=451698879&mode=launch
